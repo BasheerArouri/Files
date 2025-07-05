@@ -1,0 +1,11 @@
+id,container,product,price,quantity
+1,A12,Apple,0.50,100
+2,A13,Banana,0.30,150
+3,A14,Orange,0.60,120
+4,B10,Milk,1.20,80
+5,B11,Bread,1.00,60
+6,C20,Soap,0.90,200
+7,C20,Shampoo,2.50,75
+8,D15,Toothpaste,1.40,90
+9,D16,Eggs,2.00,110
+10,E18,Rice,3.00,50
