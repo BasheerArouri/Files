@@ -1,0 +1,16 @@
+product_id,category,discount_code,price,temporary_notes
+101,Electronics,DISC10,20.0,Clearance
+102,Electronics,DISC05,15.0,Seasonal
+103,Electronics,,100.0,
+104,Electronics,DISC20,800.0,Promotion
+105,Audio,DISC15,50.0,
+106,Audio,,30.0,Best seller
+107,Electronics,DISC10,45.0,
+108,Accessories,,25.0,Top rated
+109,Cables,,10.0,
+110,Electronics,DISC25,300.0,Old model
+111,Gaming,,60.0,
+112,Storage,DISC05,120.0,
+113,Accessories,,18.0,
+114,Networking,,70.0,
+115,Audio,DISC30,150.0,
