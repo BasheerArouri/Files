@@ -1,0 +1,11 @@
+product_id,name,price,quantity
+101,Keyboard,20.0,10
+102,Mouse,15.0,25
+103,Monitor,100.0,5
+104,Laptop,800.0,2
+105,Speaker,50.0,6
+106,Headphones,30.0,15
+107,Webcam,45.0,8
+108,Charger,25.0,12
+109,USB Cable,10.0,40
+110,Tablet,300.0,3
